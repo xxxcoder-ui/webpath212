@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "https://siliwangi.netlify.app"
+  to = "https://www.smksiliwangi.co.id"
+  status = 301
+  force = true
