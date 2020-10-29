@@ -1,5 +1,5 @@
 [[redirects]]
   from = "https://smksiliwangisukabumi.netlify.app"
-  to = "https://www.smksiliwangi.co.id"
+  to = "www.smksiliwangi.co.id:443"
   status = 301
   force = true
